@@ -5,7 +5,7 @@
 
 
   
-![Cover art](./banner.jpg)
+![Cover Art](./images/banner.jpg)
 
 > ## Built With
 
