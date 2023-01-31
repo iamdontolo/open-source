@@ -1,7 +1,7 @@
 # Open Source Project
 
 
-<p align="center"> This project is a model of an online music store for an upcoming artist from Sierra Leone, named Don ToLo. </p>
+This project is a model of an online music store for an upcoming artist from Sierra Leone, named Don ToLo.
 
 
   
