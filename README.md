@@ -27,7 +27,7 @@ $ cd <folder>
 ```
 
 ```
-$ git clone https://github.com/acushlakoncept/conference-page.git
+$ git clone https://github.com/iamdontolo/open-source
 ```
 
 To install the required sass node modules
@@ -45,17 +45,17 @@ $ npm run compile:sass
 ```
 ## Author
 
-👤 **Lucas Delbel**
+👤 **Osman Kamara**
 
-- Github: [@ldelbel](https://github.com/ldelbel)
-- Twitter: [@delbel_lucas](https://twitter.com/delbel_lucas)
-- Linkedin: [lucasdelbel](https://www.linkedin.com/in/lucasdelbel/)
+- Github: [@ldelbel](https://github.com/iamdontolo)
+- Instagram: [@iamdontolo](https://instagram.com/iamdontolo)
+- Linkedin: [Osman Kamara](https://www.linkedin.com/in/osman-kamara-5b18a8247/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ldelbel/music-store-website/issues).
+Feel free to check the [issues page](https://github.com/iamdontolo/open-source/issues).
 
 ## Show your support
 
@@ -63,6 +63,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- UI Design Credits goes to [Mohammed Awad - Zattix](https://www.behance.net/gallery/24796463/ZATTIX)
-- This project is a part of the Microverse Program
+- This success of this project is inspired by my Deen of study [Director Joseph Mike Kamara](https://github.com/mykkam)
+- This project is a part of my final year Bsc Degree program of study.
 
