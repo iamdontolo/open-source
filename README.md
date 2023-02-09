@@ -1,7 +1,9 @@
-# Open Source Project
+# The Smile Network
 
 
-This project is a model of an online music store for an upcoming artist from Sierra Leone, named Don ToLo.
+The Smile Network is a Nonprofit Oraganization that caters for children under the age of 10 that 
+are lacking the previledge of Child Empowerment, Education, Livelihood and Healthcare for the purpose 
+of a sustainable community for the future generation and the growth of a better tomorrow.
 
 
   
@@ -11,8 +13,6 @@ This project is a model of an online music store for an upcoming artist from Sie
 
 - HTML & CSS
 - FontAwesome
-- SASS
-- Bootstrap 4
 
 ## Live Demo
 
@@ -20,27 +20,7 @@ This project is a model of an online music store for an upcoming artist from Sie
 
 ## Getting Started
 
-To get a local copy of the repository please run the following commands on your terminal:
 
-```
-$ cd <folder>
-```
-
-```
-$ git clone https://github.com/iamdontolo/open-source
-```
-
-To install the required sass node modules
-
-```
-$ npm install -g sass
-
-```
-
-Run SASS on command line to automatically compile to style.css
-
-```
-$ npm run compile:sass
 
 ```
 ## Author
