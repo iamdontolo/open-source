@@ -18,7 +18,7 @@ of a sustainable community for the future generation and the growth of a better 
 
 [Live Demo Link](https://ldelbel.github.io/music-store-website/)
 
-## Getting Started
+
 
 
 
