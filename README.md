@@ -3,12 +3,8 @@
 
 The Smile Network is a Nonprofit Oraganization that caters for children under the age of 10 that 
 are lacking the previledge of Child Empowerment, Education, Livelihood and Healthcare for the purpose 
-of a sustainable community for the future generation and the growth of a better tomorrow.
-
-
-  
+of a sustainable community for the future generation and the growth of a better tomorrow.  
 ![Cover Art](./screenshot.png)
-
 > ## Built With
 
 - HTML & CSS
