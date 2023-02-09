@@ -7,7 +7,7 @@ of a sustainable community for the future generation and the growth of a better 
 
 
   
-![Cover Art](./images/banner.jpg)
+![Cover Art](./screenshot.png)
 
 > ## Built With
 
