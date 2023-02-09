@@ -16,7 +16,7 @@ of a sustainable community for the future generation and the growth of a better 
 
 ## Live Demo
 
-[Live Demo Link](https://ldelbel.github.io/music-store-website/)
+[Live Demo Link](https://iamdontolo.github.io/smile/)
 
 
 
