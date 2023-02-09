@@ -22,7 +22,7 @@ of a sustainable community for the future generation and the growth of a better 
 
 
 
-```
+
 ## Author
 
 👤 **Osman Kamara**
