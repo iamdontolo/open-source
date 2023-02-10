@@ -23,7 +23,7 @@ of a sustainable community for the future generation and the growth of a better 
 
 👤 **Osman Kamara**
 
-- Github: [@ldelbel](https://github.com/iamdontolo)
+- Github: [@iamdontolo](https://github.com/iamdontolo)
 - Instagram: [@iamdontolo](https://instagram.com/iamdontolo)
 - Linkedin: [Osman Kamara](https://www.linkedin.com/in/osman-kamara-5b18a8247/)
 
