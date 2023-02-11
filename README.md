@@ -39,6 +39,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This success of this project is inspired by my Deen of study [Director Joseph Mike Kamara](https://github.com/mykkam)
+- The success of this project is inspired by my Deen of study, [Director Joseph Mike Kamara](https://github.com/mykkam)
 - This project is a part of my final year Bsc Degree program of study.
 
